@@ -1,5 +1,5 @@
 About Project
-Bike-sharing systems are an automated evolution of traditional bike rentals. There are 500+ bike share programs worldwide with over 500K bikes, potentially addressing traffic, environmental, and health issues. The unique data from this system supports urban mobility research. This case study analyzes the bike-sharing rental dataset from Kaggle using Google Sheets, MySQL, and Tableau for insight and efficient decision-making.
+Bike-sharing systems are an automated evolution of traditional bike rentals. There are 500+ bike share programs worldwide with over 500K bikes, potentially addressing traffic, environmental, and health issues. The unique data from this system supports urban mobility research. This case study analyzes the bike-sharing rental dataset from Kaggle using Google Sheets, MySQL, and Power BI for insight and efficient decision-making.
 
 Data Preparation
 Before the data was analyzed, I cleaned the data. By carrying out this process we can maintain data quality, make it easy to interpret, make visualization easier, and so on. The data cleaning process is carried out using Google Sheets, here are the steps:
@@ -16,7 +16,7 @@ Analysis Questions
 5. what is the Average revenue and profit over time of time?
 
 Create Dashboard
-After carrying out the analysis process, the next step is to create a dashboard to make it easier for businesses to see the insights in the data, see bicycle rental trends, and make it easier to make decisions. I created a dashboard using Tableau Public, and the result is like this:
+After carrying out the analysis process, the next step is to create a dashboard to make it easier for businesses to see the insights in the data, see bicycle rental trends, and make it easier to make decisions. I created a dashboard using Power BI Public, and the result is like this:
 
 ![Kshama bike analysis](https://github.com/user-attachments/assets/2f30882d-de23-4179-9cc7-734a2f0bbc0d)
 
